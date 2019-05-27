@@ -1,4 +1,11 @@
 {
+  "0xD6Ff3B46Fa7d68E8F021BA603b8b98bE99d039ED": {
+    "name": "ARTWOOK COIN",
+    "logo": "akc.svg",
+    "erc20": true,
+    "symbol": "AKC",
+    "decimals": 18
+  },
   "0x5D858bcd53E085920620549214a8b27CE2f04670": {
     "name": "POP Network Token",
     "logo": "POP.svg",
